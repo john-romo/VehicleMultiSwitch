@@ -15,12 +15,6 @@
 
 	All the code was written by myself, with some help from YouTube tutorials, and
 	hours poring over the ATmega328 data sheet. 
-
-	Compile instructions:	avr-gcc -Os -mmcu=atmega328p -c wipers.c -o wipers.o
-							avr-gcc -Os -mmcu=atmega328p -o wipers.elf wipers.o
-							avr-objcopy -j .text -j .data -o ihex wipers.elf wipers.hex
-	Flash instructions:		avrdude -v -p atmega328p -c $(PROGRAMMER) -U flash:w:wipers.hex:i
-
 */
 
 #include<avr/io.h>
