@@ -8,8 +8,9 @@ whatnot) run on an ATmega328P.  It is written in C with Vim. I had
 a DC motor hooked up originally, but that broke, so I had to replace
 it with LEDs.  Really, everything here is just switches to turn on
 and off LEDs and to make sure the right stuff is on at the right time.
-I will be uploading a video onto youtube soon to explain in more 
-detail how everything works. 
+
+You can watch a video with a detailed explination of the project at:
+https://www.youtube.com/watch?v=HMXixXDm_Pg
 
 While youtube tutorials were nice with making an LED blink, there 
 wasn't much there for the more complicated stuff.  I just went
