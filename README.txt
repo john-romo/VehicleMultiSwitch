@@ -14,7 +14,7 @@ detail how everything works.
 While youtube tutorials were nice with making an LED blink, there 
 wasn't much there for the more complicated stuff.  I just went
 right to the source and read the data sheet.  Very little in this
-code will be anything similar to anyone elses, unless the way
+code will be anything similar to anyone else's, unless the way
 I did it is pretty standard. I kind of doubt that since it's my
 first time writing this kind of code, meaning it's probably
 pretty rough.  
